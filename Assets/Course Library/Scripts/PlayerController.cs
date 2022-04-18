@@ -1,7 +1,7 @@
 ﻿/** 
  * Controls the player
  * Author: Eric Tran
- * Version: 3/31/2022
+ * Version: 4/18/2022
 */
 using System.Collections;
 using System.Collections.Generic;
