@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/** 
+ * Moves an object forward
+ * Author: Eric Tran
+ * Version: 4/18/2022
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

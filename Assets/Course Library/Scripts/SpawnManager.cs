@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/** 
+ * Randomly spawns animals
+ * Author: Eric Tran
+ * Version: 4/18/2022
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

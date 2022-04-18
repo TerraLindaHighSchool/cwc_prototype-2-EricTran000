@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/** 
+ * Destroys itself and the other object upon collision
+ * Author: Eric Tran
+ * Version: 4/18/2022
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -18,7 +23,6 @@ public class DetectCollisions : MonoBehaviour
 
     void OnTriggerEnter(Collider other)
     {
-        Debug.Log("Line 21: triggered");
         Destroy(gameObject);
         Destroy(other.gameObject);
     }

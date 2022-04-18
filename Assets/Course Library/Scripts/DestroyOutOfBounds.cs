@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/** 
+ * Destroys an object out of bounds
+ * Author: Eric Tran
+ * Version: 4/18/2022
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
